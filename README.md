@@ -1,7 +1,8 @@
+   ![1681025819154](https://user-images.githubusercontent.com/63107421/235822322-ca5b5a58-2fb3-481a-ab3d-2e3d5688c96e.jpg)
 <h1 align="center">Hi 👋, I'm MANAN CHAUHAN</h1>
 <h3 align="center">A passionate Flutter developer & Tech Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manan36chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="manan36chauhan" /> </p>
+
 
 - 🔭 I’m currently working on **Flutter Projects**
 
