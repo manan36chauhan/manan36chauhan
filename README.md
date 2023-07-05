@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm MANAN CHAUHAN</h1>
 <h3 align="center">A passionate Flutter developer & Tech Enthusiast from India</h3>
 
-
+https://medium.com/@manzsoftech/mvvm-bloc-pattern-in-fl-74e178d207b9
 
 - 🔭 I’m currently working on **Flutter Projects**
 
