@@ -4,11 +4,9 @@
 
 https://medium.com/@manzsoftech/mvvm-bloc-pattern-in-fl-74e178d207b9
 
-- 🔭 I’m currently working on **Flutter Projects**
+- 🔭 I’m currently working on **Flutter & React-Native Projects**
 
-- 🌱 I’m currently learning **Flutter**
-
-- 👯 I’m looking to collaborate on **Any Projects**
+- 🌱 I’m currently learning **Flutter && React-Native**
 
 - 👨‍💻 All of my projects are available at [https://manan36chauhan.github.io/](https://manan36chauhan.github.io/)
 
