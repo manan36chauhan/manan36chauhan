@@ -8,9 +8,7 @@
 - 🌱 I’m currently learning **React-native and flutter**
 
 - 👯 I’m looking to collaborate on **Mobile App development**
-
-- 🤝 I’m looking for help with **React-native and flutter**
-
+  
 - 👨‍💻 All of my projects are available at [https://manan36chauhan.github.io/](https://manan36chauhan.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@manzsoftech](https://medium.com/@manzsoftech)
