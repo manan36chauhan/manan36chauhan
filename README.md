@@ -6,9 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manan36chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="manan36chauhan" /> </p>
 
-- 🔭 I’m currently working on **React-native and flutter**
+- I’m Currently learning and working on **Data Science and AI/ML Projects**
 
-- 🌱 I’m currently learning **React-native and flutter**
+- 🔭 I’m Recently worked on **React-native and flutter**
+
+- 🌱 I’m Recently learned **React-native and flutter**
 
 - 👯 I’m looking to collaborate on **Mobile App development**
   
