@@ -8,9 +8,9 @@
 
 - I’m Currently learning and working on **Data Science and AI/ML Projects**
 
-- 🔭 I’m Recently worked on **React-native and flutter**
+- 🔭 I recently worked on **React-native and flutter**
 
-- 🌱 I’m Recently learned **React-native and flutter**
+- 🌱 I recently learned **React-native and flutter**
 
 - 👯 I’m looking to collaborate on **Mobile App development**
   
@@ -22,7 +22,6 @@
 
 - 📫 How to reach me **chauhanmanan98@gmail.com**
 
-- ⚡ Fun fact **It's all about Tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
