@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manan Chauhan</h1>
-<h3 align="center">A passionate Mobile Application developer from India</h3>
+<h3 align="center">A passionate Data Science Enthusiast and Former Mobile Application developer from India, Studying in Germany</h3>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="manan-chauhan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/manan-chauhan?trk=profile-badge">Manan Chauhan</a></div>
               
               
