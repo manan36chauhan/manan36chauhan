@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manan Chauhan</h1>
 <h3 align="center">AI/ML Specialist & Full-Stack Developer | MSc Student in Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manan36chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="manan36chauhan" /> </p>
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=manan36chauhan&label=Profile%20Views&color=0&icon=0&pretty=true" alt="manan36chauhan" /> </p>
 
 ---
 
